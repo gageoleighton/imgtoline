@@ -11,6 +11,6 @@ pip install pillow tkinter cv2 numpy skimage matplotlib
 python img2lines.py
 
 
-# I'm working on using networkx to determine, also not the best solution
+# I'm working on using networkx to determine the longest continous path. This is definitely not the best solution
 pip install networkx
 ```
